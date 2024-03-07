@@ -31,7 +31,7 @@ public class Application01 {
         } catch (SQLException e) {
             throw new RuntimeException(e);
         } finally {
-            if(con != null){
+            if (con != null) {
                 try {
                     con.close();
                 } catch (SQLException e) {
@@ -39,7 +39,5 @@ public class Application01 {
                 }
             }
         }
-
-
     }
 }
