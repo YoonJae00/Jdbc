@@ -2,7 +2,7 @@ package com.ohgiraffers.model.dto;
 
 /* 필기.
         DTO (Data Transfer Object)
-        여러 계층 (Class) 간의 데이터 전송을 ㅜ이해 다양한 타입의 데이터를
+        여러 계층 (Class) 간의 데이터 전송을 위해 다양한 타입의 데이터를
         하나로 묶어 전송하는 쓰임의 클래스
         유사한 말로 VO, Bean, Entity, (DO, Domain, Row) 등등 많이 불리운다.
      */
