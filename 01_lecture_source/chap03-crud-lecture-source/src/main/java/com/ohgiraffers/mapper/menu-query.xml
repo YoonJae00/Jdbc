@@ -13,8 +13,8 @@
         WHERE MENU_CODE = ?
     </entry>
     <entry key="deleteMenu">
-        DELETE FROM TBL_MENU
-        WHERE MENU_CODE = ?
+        DELETE FROM employee
+        WHERE EMP_ID = ?
     </entry>
     <entry key="deleteMenu1">
         DELETE
